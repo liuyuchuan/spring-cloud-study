@@ -1,0 +1,7 @@
+
+
+server:
+  port: 8762
+
+student:
+  name: 我来自spring-config-server的配置为文件
